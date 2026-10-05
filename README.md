@@ -10,7 +10,19 @@ Our solution recomputes every AI claim from a governed data layer, returns PASS 
 
 Example: Our platform uses AI to provide users with fast, reliable, and personalised recommendations through an intuitive interface.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8b3d882-d222-42d9-9683-ea4370356c6b" />
+## Key Features
+
+- AI-generated analytics validation engine
+- Detection of inaccurate or misleading AI outputs
+- Automated confidence and risk scoring
+- Human review and approval workflow
+- Privacy and compliance checks
+- Evidence-based verification of AI responses
+- Audit trail for AI-generated decisions
+- AI Exposure Scorecard
+- Future Data Analyst role redesign framework
+- Human-AI collaboration dashboard
+``
 
 Key Features
 AI-generated analytics validation engine
@@ -24,6 +36,27 @@ AI Exposure Scorecard for analytics activities
 Future Data Analyst role redesign framework
 Human-AI collaboration dashboard
 
+## Technology Stack
+
+### Data Analysis
+- Microsoft Excel
+- Power Query
+
+### Visualisation
+- Power BI
+
+### Data Processing
+- DAX
+- Excel Formulas
+
+### Version Control
+- GitHub
+
+### AI Tools Used
+- Claude
+
+### Documentation
+- Microsoft PowerPoint
 Technology Stack
 Data Analysis
 Microsoft Excel
