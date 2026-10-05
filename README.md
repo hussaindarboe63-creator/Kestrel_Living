@@ -68,7 +68,7 @@ This solution validates AI-generated answers, identifies potential errors, flags
 The project demonstrates how organisations can combine AI efficiency with human accountability to create trustworthy analytics.
 
 Demo
-Coming Soon
+Coming Soon!
 
 Screenshots
 AI Exposure Scorecard
