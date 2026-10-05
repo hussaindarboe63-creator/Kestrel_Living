@@ -10,6 +10,8 @@ Our solution recomputes every AI claim from a governed data layer, returns PASS 
 
 Example: Our platform uses AI to provide users with fast, reliable, and personalised recommendations through an intuitive interface.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8b3d882-d222-42d9-9683-ea4370356c6b" />
+
 Key Features
 AI-generated analytics validation engine
 Detection of inaccurate or misleading AI outputs
