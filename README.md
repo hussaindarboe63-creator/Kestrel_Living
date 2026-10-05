@@ -24,18 +24,6 @@ Example: Our platform uses AI to provide users with fast, reliable, and personal
 - Human-AI collaboration dashboard
 ``
 
-Key Features
-AI-generated analytics validation engine
-Detection of inaccurate or misleading AI outputs
-Automated confidence and risk scoring
-Human review and approval workflow
-Privacy and compliance checks
-Evidence-based verification of AI responses
-Audit trail for AI-generated decisions
-AI Exposure Scorecard for analytics activities
-Future Data Analyst role redesign framework
-Human-AI collaboration dashboard
-
 ## Technology Stack
 
 ### Data Analysis
@@ -57,21 +45,7 @@ Human-AI collaboration dashboard
 
 ### Documentation
 - Microsoft PowerPoint
-Technology Stack
-Data Analysis
-Microsoft Excel
-Power Query
-Visualisation
-Power BI
-Data Processing
-DAX
-Excel Formulas
-Version Control
-GitHub
-AI Tools Used
-Claude
-Documentation
-Microsoft PowerPoint
+
 
 Impact
 Business Impact
@@ -97,6 +71,28 @@ The project demonstrates how organisations can combine AI efficiency with human 
 
 Demo
 Coming Soon!
+
+## Screenshots
+
+### AI Exposure Scorecard
+
+Exposure_Scorecard.png
+
+### AI Validation Dashboard
+
+Validation_Dashboard.png
+
+### Human-AI Workflow
+
+Workflow.png
+
+### Validation Report
+
+Validation_Report.png
+
+### Power BI AI summary
+
+1.png
 
 Data Evidence
 AI Exposure Scorecard [AI Validation Workbook]
