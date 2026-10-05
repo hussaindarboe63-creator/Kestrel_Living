@@ -22,12 +22,6 @@ AI Exposure Scorecard for analytics activities
 Future Data Analyst role redesign framework
 Human-AI collaboration dashboard
 
-How It Works
-User signs in
-User enters information
-AI processes the request
-Results are generated instantly
-
 Technology Stack
 Data Analysis
 Microsoft Excel
@@ -49,7 +43,6 @@ Business Impact
 Our solution enables Kestrel Living to benefit from the speed of AI-generated analytics without sacrificing trust, governance or accountability.
 
 Benefits include:
-
 Faster access to business insights
 Reduced risk of incorrect AI-generated decisions
 Stronger compliance with privacy and business rules
@@ -70,23 +63,28 @@ The project demonstrates how organisations can combine AI efficiency with human 
 Demo
 Coming Soon!
 
-Screenshots
-AI Exposure Scorecard
+Data Evidence
+AI Exposure Scorecard [AI Validation Workbook]
 Shows which analytics activities are suitable for automation, augmentation, or human oversight.
 
 
 
-AI Validation Dashboard
+AI Validation Dashboard [AI Validation Workbook]
 Displays AI-generated answers, validation status, confidence scores, identified issues, and recommended actions.
 
 
 
-Human-AI Workflow
+Human-AI Workflow [Role and Workflow pack]
 Illustrates how AI-generated insights flow through validation, review, approval, and escalation stages.
 
 
+Screenshots
+Power BI Dashboard [1/2/3/4]
+Displays AI Summary report and evidence.
 
-Compliance & Governance Checks
+
+
+Compliance & Governance Checks [Role and Workflow pack/AI Validation Report]
 Shows how privacy, consent, and business rules are validated before decisions are made.
 
 Future Improvements
