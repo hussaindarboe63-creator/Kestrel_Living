@@ -1,11 +1,11 @@
-Kestrel Living: Who Checks the AI's Numbers?
-AI analytics answers sound confident even when wrong, and Kestrel Living has no reliable way to catch errors or privacy breaches before managers act.
+# Kestrel Living: Who Checks the AI's Numbers?
 
-AI answers that sound confident are easy to trust. We wanted to show that the answer to AI risk is not rejecting AI, but building checks so people stay accountable for accuracy, privacy and decisions.
+## AI-Powered Analytics Validation Framework
 
+A practical solution that helps organisations benefit from AI-generated analytics while maintaining human accountability, privacy, governance and trust.
 Example:  The log showed a profit figure that was £13M wrong at 94% confidence, and a request that would have emailed customers who never consented.
 
-Solution
+## Solution
 Our solution recomputes every AI claim from a governed data layer, returns PASS or FAIL with evidence, and routes each verdict to a named human checkpoint. It works on any new claim, keeps names and emails out of the model, and logs every decision. We also redesigned the Data Analyst role around validation, governance and interpretation.
 
 Example: Our platform uses AI to provide users with fast, reliable, and personalised recommendations through an intuitive interface.
@@ -47,20 +47,23 @@ Example: Our platform uses AI to provide users with fast, reliable, and personal
 - Microsoft PowerPoint
 
 
-Impact
-Business Impact
+## Business Impact
+
 Our solution enables Kestrel Living to benefit from the speed of AI-generated analytics without sacrificing trust, governance or accountability.
 
 Benefits include:
-Faster access to business insights
-Reduced risk of incorrect AI-generated decisions
-Stronger compliance with privacy and business rules
-Increased confidence in analytical outputs
-Clear human oversight for high-impact decisions
-Better collaboration between AI systems and Data Analysts
+
+- Faster access to business insights
+- Reduced risk of incorrect AI-generated decisions
+- Stronger compliance with privacy and business rules
+- Increased confidence in analytical outputs
+- Clear human oversight for high-impact decisions
+- Better collaboration between AI systems and Data Analysts
+
 The solution transforms the Data Analyst role from report producer to AI validator, business interpreter and governance specialist.
 
-Overview
+## Overview
+
 KestrelGuard is an AI Analytics Validation Framework designed for Kestrel Living.
 
 As organisations increasingly rely on AI-generated analytics, there is a growing risk that incorrect calculations, misleading interpretations, privacy violations or governance issues may go unnoticed.
@@ -69,56 +72,57 @@ This solution validates AI-generated answers, identifies potential errors, flags
 
 The project demonstrates how organisations can combine AI efficiency with human accountability to create trustworthy analytics.
 
-Demo
+## Demo
 Coming Soon!
+
+## Repository Contents
+
+| Deliverable | Format |
+|------------|---------|
+| AI Exposure Analysis | Excel |
+| AI Validation Report | Excel |
+| Human-AI Workflow | Word |
+| Future Analyst Role Pack | Word |
+| Presentation Slides | PowerPoint |
+| Demo Video | MP4 |
 
 ## Screenshots
 
-### AI Exposure Scorecard
-
-Exposure_Scorecard.png
-
-### AI Validation Dashboard
-
-Validation_Dashboard.png
-
-### Human-AI Workflow
-
-Workflow.png
-
-### Validation Report
-
-Validation_Report.png
-
 ### Power BI AI summary
 
-1.png
-
-Data Evidence
-AI Exposure Scorecard [AI Validation Workbook]
-Shows which analytics activities are suitable for automation, augmentation, or human oversight.
-
+<img width="931" height="524" alt="1" src="https://github.com/user-attachments/assets/df19f819-a753-40df-938c-8064de2642a6" />
+<img width="930" height="527" alt="2" src="https://github.com/user-attachments/assets/e88b7749-ba1f-4c6d-8523-910c0325d17b" />
+<img width="931" height="526" alt="3" src="https://github.com/user-attachments/assets/1db562a1-1b42-415f-b358-a1aa737aa9b6" />
+<img width="932" height="526" alt="4" src="https://github.com/user-attachments/assets/5651b231-c96c-478c-9637-ec30e4a1ccf8" />
 
 
-AI Validation Dashboard [AI Validation Workbook]
-Displays AI-generated answers, validation status, confidence scores, identified issues, and recommended actions.
+## Project Deliverables
 
+### AI Exposure Scorecard
+Analysis of analytics activities classified as Automate, Augment, or Human-Led.
 
+Kestrel_Living_AI_Validation_Workbook.xlsx
 
-Human-AI Workflow [Role and Workflow pack]
-Illustrates how AI-generated insights flow through validation, review, approval, and escalation stages.
+### AI Validation Dashboard
+Evidence-based validation of AI-generated responses.
 
+Kestrel_Living_AI_Validation_Workbook.xlsx
 
-Screenshots
-Power BI Dashboard [1/2/3/4]
-Displays AI Summary report and evidence.
+### Human-AI Workflow Framework
+Proposed workflow for AI-assisted analytics with human oversight.
 
+Kestrel_Living_Role_and_Workflow_Pack.docx
 
+### Role & Reskilling Pack
+Future Data Analyst role profile and skills development roadmap.
 
-Compliance & Governance Checks [Role and Workflow pack/AI Validation Report]
-Shows how privacy, consent, and business rules are validated before decisions are made.
+Kestrel_Living_Role_and_Workflow_Pack.docx
 
-Future Improvements
+### AI Exposure Scorecard
+
+Kestrel_Living_AI_Validation_Workbook.xlsx
+
+## Future Improvements
 Real-time monitoring of AI-generated analytics outputs
 Automated anomaly detection for suspicious AI responses
 Integration with Power BI and enterprise reporting systems
@@ -129,5 +133,5 @@ Predictive risk scoring for high-impact business decisions
 Integration with Microsoft Copilot and other AI assistants ``
 
 
-Team
+## Team
 Pod Lyra
