@@ -1,4 +1,4 @@
-1.png
+Professional SaaS-style banner for "Kestrel Living", AI analytics validation platform, business dashboards, data quality checks, governance monitoring, blue and teal palette, modern enterprise software design, clean header image, high-end startup aesthetic.
 # Kestrel Living
 
 ## An AI Answer Validation Framework
