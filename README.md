@@ -122,7 +122,7 @@ https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Livi
 https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx
 
 ## Presentation Slides
-
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Insights.pptx
 
 ## Future Improvements
 
