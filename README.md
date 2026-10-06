@@ -107,6 +107,12 @@ Pilot the checker on live BI data.
 Start 10% weekly sampling of released answers.
 Keep the 15 validated answers as a regression test set whenever the AI model or prompt changes.
 
+## Quick Links
+
+🎥 https://youtu.be/EZv_6-wWGvE
+
+📂 [GitHub Repository](your
+
 ## Team
 Pod Lyra
 - A team of data analytics learners working with Excel, SQL and Power BI.
