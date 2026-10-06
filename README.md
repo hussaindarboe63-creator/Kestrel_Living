@@ -1,4 +1,3 @@
-# Kestrel Living: Who Checks the AI's Numbers?
 # Kestrel Living
 
 ## An AI Answer Validation Framework
@@ -13,11 +12,6 @@ Automatically verifies AI-generated business analytics answers against official 
 https://youtu.be/EZv_6-wWGvE
 
 ---
-## An AI answer validation framework built by Pod Lyra for the 10Alytics Hackathon (Data Analytics track)
-
-- AI analytics answers sound confident even when wrong, and Kestrel Living has no reliable way to catch errors or privacy breaches before managers act. We audited the company's AI assistant, built a checker that recomputes its answers, and redesigned the Data Analyst role around validation, governance and interpretation.
-
-| Watch the pitch video | https://youtu.be/EZv_6-wWGvE |
 ## What we found
 We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
 
