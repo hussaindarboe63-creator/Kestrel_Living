@@ -1,3 +1,4 @@
+images/banner.png
 # Kestrel Living
 
 ## An AI Answer Validation Framework
@@ -12,6 +13,22 @@ Automatically verifies AI-generated business analytics answers against official 
 https://youtu.be/EZv_6-wWGvE
 
 ---
+## Problem
+
+AI analytics answers often sound confident even when they are incorrect.
+Kestrel Living lacked a reliable way to detect calculation errors,
+policy violations, and privacy risks before managers acted on insights.
+
+## Solution
+
+We built an AI answer validation framework that:
+
+- Recomputes AI-generated metrics
+- Checks compliance with business rules
+- Detects privacy violations
+- Produces transparent audit reports
+- Improves decision confidence
+
 ## What we found
 We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
 
