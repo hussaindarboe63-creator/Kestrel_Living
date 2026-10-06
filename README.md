@@ -111,8 +111,7 @@ Keep the 15 validated answers as a regression test set whenever the AI model or 
 
 🎥 https://youtu.be/EZv_6-wWGvE
 
-📂 [GitHub Repository](yourhussaindarboe63-creator/Kestrel_Living)
-[GitHub Repository](https://github.com/hussaindarboe63-creator/Kestrel_Living)
+📂 [GitHub Repository](https://github.com/hussaindarboe63-creator/Kestrel_Living)
 
 ## Team
 Pod Lyra
