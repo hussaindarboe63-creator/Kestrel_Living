@@ -100,12 +100,12 @@ Coming Soon!
 ### AI Exposure Scorecard
 Analysis of analytics activities classified as Automate, Augment, or Human-Led.
 
-Kestrel_Living_AI_Validation_Workbook.xlsx
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx
 
 ### AI Validation Dashboard
 Evidence-based validation of AI-generated responses.
 
-Kestrel_Living_AI_Validation_Workbook.xlsx
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx
 
 ### Human-AI Workflow Framework
 Proposed workflow for AI-assisted analytics with human oversight.
@@ -119,7 +119,7 @@ Kestrel_Living_Role_and_Workflow_Pack.docx
 
 ### AI Exposure Scorecard
 
-Kestrel_Living_AI_Validation_Workbook.xlsx
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx
 
 ## Future Improvements
 
