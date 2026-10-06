@@ -73,6 +73,17 @@ Page 4: category view. Lowest profit is not the same as poor performance.
 - Wrong, misleading and non-compliant answers are caught before managers act on them.
 - High-impact figures and personal-data requests always go to a named human.
 
+My-Work-Documents
+│
+├── Word
+│   └── Report.docx
+│
+├── Excel
+│   └── Analysis.xlsx
+│
+└── PowerBI
+    └── Dashboard.pbix
+    
 ## Limitations
 The data covers one year (2025), so trends and causation cannot be established.
 Duplicate removal is a documented judgement that should be confirmed with the data owner.
