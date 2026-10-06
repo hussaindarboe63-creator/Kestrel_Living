@@ -109,8 +109,7 @@ Keep the 15 validated answers as a regression test set whenever the AI model or 
 
 ## Quick Links
 
-🎥 [Pitch/https://youtu.be/EZv_6-wWGvE
-https://youtu.be/EZv_6-wWGvE
+🎥 [Pitch/https://youtu.be/EZv_6-wWGvE]
 
 📂 [GitHub Repository](https://github.com/hussaindarboe63-creator/Kestrel_Living)
 
