@@ -1,4 +1,3 @@
-Professional SaaS-style banner for "Kestrel Living", AI analytics validation platform, business dashboards, data quality checks, governance monitoring, blue and teal palette, modern enterprise software design, clean header image, high-end startup aesthetic.
 # Kestrel Living
 
 ## An AI Answer Validation Framework
@@ -31,6 +30,16 @@ We built an AI answer validation framework that:
 
 ## What we found
 We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
+
+## Key Findings
+
+✅ 4 Correct Answers
+
+⚠️ 2 Correct with Caveats
+
+🔶 2 Misleading Answers
+
+❌ 5 Wrong Answers
 
 | Verdict | Answers |
 |------------|---------|
