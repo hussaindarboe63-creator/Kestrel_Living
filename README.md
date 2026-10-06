@@ -22,7 +22,6 @@ Example: Our platform uses AI to provide users with fast, reliable, and personal
 - AI Exposure Scorecard
 - Future Data Analyst role redesign framework
 - Human-AI collaboration dashboard
-``
 
 ## Technology Stack
 
@@ -123,14 +122,15 @@ Kestrel_Living_Role_and_Workflow_Pack.docx
 Kestrel_Living_AI_Validation_Workbook.xlsx
 
 ## Future Improvements
-Real-time monitoring of AI-generated analytics outputs
-Automated anomaly detection for suspicious AI responses
-Integration with Power BI and enterprise reporting systems
-Role-based access controls for governance and compliance
-AI explainability module to provide detailed reasoning behind AI answers
-Automated audit trail generation for regulatory reporting
-Predictive risk scoring for high-impact business decisions
-Integration with Microsoft Copilot and other AI assistants ``
+
+- Real-time monitoring of AI-generated analytics outputs
+- Automated anomaly detection for suspicious AI responses
+- Integration with Power BI and enterprise reporting systems
+- Role-based access controls for governance and compliance
+- AI explainability module to provide detailed reasoning behind AI answers
+- Automated audit trail generation for regulatory reporting
+- Predictive risk scoring for high-impact business decisions
+- Integration with Microsoft Copilot and other AI assistants
 
 
 ## Team
