@@ -9,7 +9,6 @@ Automatically verifies AI-generated business analytics answers against official 
 🔍 Recomputed and audited 15 AI-generated answers
 ✅ Identified incorrect, misleading, and privacy-risk responses
 
-https://youtu.be/EZv_6-wWGvE
 
 ---
 ## Problem
