@@ -121,6 +121,9 @@ https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Livi
 
 https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx
 
+## Presentation Slides
+
+
 ## Future Improvements
 
 - Real-time monitoring of AI-generated analytics outputs
