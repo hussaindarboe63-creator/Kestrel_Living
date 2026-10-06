@@ -28,10 +28,8 @@ We built an AI answer validation framework that:
 - Produces transparent audit reports
 - Improves decision confidence
 
-## What we found
-We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
-
 ## Key Findings
+We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
 
 ✅ 4 Correct Answers
 
@@ -40,14 +38,6 @@ We re-computed all 15 answers in the AI log against Kestrel Living's official me
 🔶 2 Misleading Answers
 
 ❌ 5 Wrong Answers
-
-| Verdict | Answers |
-|------------|---------|
-| Correct | 4 |
-| Correct, with caveat | 2 |
-| Misleading | 2 |
-| Wrong | 5 |
-| Non-compliant (privacy or consent) | 2 |
 
 - Profit overstated by £13.3M. AI-012 reported £22,965,866.60. That is revenue. True profit is £9,616,347.60. The AI's confidence was 94%.
 - Consent ignored. AI-011 recommended emailing the top 10 spenders, but only 3 of them have given marketing consent. AI-015 offered customer names and emails.
