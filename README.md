@@ -14,9 +14,7 @@ https://youtu.be/EZv_6-wWGvE
 ---
 ## Problem
 
-AI analytics answers often sound confident even when they are incorrect.
-Kestrel Living lacked a reliable way to detect calculation errors,
-policy violations, and privacy risks before managers acted on insights.
+Organisations increasingly rely on AI-generated analytics, yet incorrect answers can lead to poor decisions, compliance risks, and loss of trust. Kestrel Living provides an automated validation framework that independently verifies AI-generated metrics against official business rules and definitions.
 
 ## Solution
 
@@ -52,16 +50,6 @@ We re-computed all 15 answers in the AI log against Kestrel Living's official me
 5. Scales beyond the 15: a new AI claim is added as one row in a claims table and checked instantly. We tested it with a new claim (AI-016), and it was flagged straight away.
 
 - Privacy by design: names and emails are removed before the data is loaded, so the model only uses Customer_ID.
-
-User Question
-      ↓
-AI Response
-      ↓
-Kestrel Validator
-      ↓
-Business Rules Check
-      ↓
-Audit Verdict
 
 ## Screenshots: Power BI report
 
