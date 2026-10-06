@@ -53,6 +53,16 @@ We re-computed all 15 answers in the AI log against Kestrel Living's official me
 
 - Privacy by design: names and emails are removed before the data is loaded, so the model only uses Customer_ID.
 
+User Question
+      ↓
+AI Response
+      ↓
+Kestrel Validator
+      ↓
+Business Rules Check
+      ↓
+Audit Verdict
+
 ## Screenshots: Power BI report
 
 <img width="931" height="524" alt="1" src="https://github.com/user-attachments/assets/df19f819-a753-40df-938c-8064de2642a6" />
