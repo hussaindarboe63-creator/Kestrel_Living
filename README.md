@@ -110,12 +110,12 @@ https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Livi
 ### Human-AI Workflow Framework
 Proposed workflow for AI-assisted analytics with human oversight.
 
-Kestrel_Living_Role_and_Workflow_Pack.docx
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_Role_and_Workflow_Pack.docx
 
 ### Role & Reskilling Pack
 Future Data Analyst role profile and skills development roadmap.
 
-Kestrel_Living_Role_and_Workflow_Pack.docx
+https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_Role_and_Workflow_Pack.docx
 
 ### AI Exposure Scorecard
 
