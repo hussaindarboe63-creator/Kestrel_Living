@@ -4,7 +4,7 @@
 
 AI analytics answers sound confident even when wrong, and Kestrel Living has no reliable way to catch errors or privacy breaches before managers act. We audited the company's AI assistant, built a checker that recomputes its answers, and redesigned the Data Analyst role around validation, governance and interpretation.
 ----------------------------------------------------------------------------------------------------------------------------------------
-## Watch the pitch video https://drive.google.com/file/d/15exbsEgsilzn_BZk_9VlBWMrRsJcDGZR/view?usp=sharing
+## Watch the pitch video https://drive.google.com/file/d/15exbsEgsilzn_BZk_9VlBWMrRsJcDGZR/view?usp=sharing,https://youtu.be/EZv_6-wWGvE
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## What we found
 We re-computed all 15 answers in the AI log against Kestrel Living's official metric definitions and business rules.
