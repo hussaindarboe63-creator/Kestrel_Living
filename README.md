@@ -44,11 +44,11 @@ Page 4: category view. Lowest profit is not the same as poor performance.
 
 | Deliverable | File |
 |------------|---------|
-| AI Exposure Scorecard, Control Rules, Rules of Engagement | Validation workbook (Excel) |
+| AI Exposure Scorecard, Control Rules, Rules of Engagement | https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Validation_Workbook.xlsx |
 | AI Validation Report | Validation report (Word) |
-| Role & Workflow Pack (before/after workflow, future role, reskilling plan, AI rules) | Role & Workflow Pack (Word) |
+| Role & Workflow Pack (before/after workflow, future role, reskilling plan, AI rules) | https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_Role_and_Workflow_Pack.docx |
 | Working solution | Power BI report, SQL queries, DAX measures |
-| Presentation Slides | Slides (PowerPoint) |
+| Presentation Slides | https://github.com/hussaindarboe63-creator/Kestrel_Living/blob/main/Kestrel_Living_AI_Insights.pptx |
 | Note on AI tools used | AI tools note (Word) |
 
 ## Technology Stack
