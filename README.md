@@ -1,4 +1,4 @@
-images/banner.png
+1.png
 # Kestrel Living
 
 ## An AI Answer Validation Framework
